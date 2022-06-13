@@ -1,0 +1,13 @@
+D:\Java\MailNotificationUponSignup\src\main\java\com\rk\model\NotificationMail.java
+D:\Java\MailNotificationUponSignup\src\main\java\com\rk\service\MailService.java
+D:\Java\MailNotificationUponSignup\src\main\java\com\rk\dto\RegisterRequest.java
+D:\Java\MailNotificationUponSignup\src\main\java\com\rk\repository\VerificationTokenRepository.java
+D:\Java\MailNotificationUponSignup\src\main\java\com\rk\App.java
+D:\Java\MailNotificationUponSignup\src\main\java\com\rk\service\AuthService.java
+D:\Java\MailNotificationUponSignup\src\main\java\com\rk\service\MailContentBuilder.java
+D:\Java\MailNotificationUponSignup\src\main\java\com\rk\Exception\SpringStoreException.java
+D:\Java\MailNotificationUponSignup\src\main\java\com\rk\controller\AuthController.java
+D:\Java\MailNotificationUponSignup\src\main\java\com\rk\config\SecurityConfig.java
+D:\Java\MailNotificationUponSignup\src\main\java\com\rk\repository\UserRepository.java
+D:\Java\MailNotificationUponSignup\src\main\java\com\rk\model\User.java
+D:\Java\MailNotificationUponSignup\src\main\java\com\rk\model\VerificationToken.java
